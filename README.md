@@ -14,8 +14,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/intl-pt/track/5O306r2a9Nl7rm5ZlaTqka)
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gabi_tonyu&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=ff70bc)](https://spotify-github-profile.vercel.app/api/view?uid=gabi_tonyu&redirect=true)
 
 ---
 
@@ -23,10 +22,8 @@
 
 ### Contact with me 📝
 
-[<img align="left" alt="bilgehangecici.site" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />][website]
 [<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
-[<img align="left" alt="bilgehangecici | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
-[<img align="left" alt="bilgehangecici | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][Spotify]
+
 
 <br />
 
