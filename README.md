@@ -4,10 +4,9 @@
 
 ## I'm a Engineering and Data Analyst  
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play pool and snooker 🎱.
+- 📚 I’m currently learning more about SQL, AWS Platform 😅
+- 💪🏼 Future Goals: Learn more about machine learning - Never stop study!
+- ⚡ Fun fact: I love to cycling, read books and listen a lot of music.
 
 ---
 
